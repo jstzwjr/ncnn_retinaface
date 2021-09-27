@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/workspace_wjr/3rd/ncnn/build/install/include/ncnn",
+                "/workspace_wjr/3rd/opencv/include"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/clang-6.0",
+            "cStandard": "c11",
+            "cppStandard": "c++14",
+            "intelliSenseMode": "linux-clang-x64"
+        }
+    ],
+    "version": 4
+}
